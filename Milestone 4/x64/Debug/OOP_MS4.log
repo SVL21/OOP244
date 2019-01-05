@@ -1,0 +1,15 @@
+﻿  OnShelfTester.cpp
+d:\seneca\oop244\final ms4\onshelftester.cpp(43): warning C4101: 'i': unreferenced local variable
+  OnShelf.cpp
+  Good.cpp
+d:\seneca\oop244\final ms4\good.cpp(58): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\seneca\oop244\final ms4\good.cpp(65): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Error.cpp
+  Date.cpp
+  CustomMade.cpp
+  Generating Code...
+d:\seneca\oop244\final ms4\onshelf.cpp(197): warning C4715: 'ict::OnShelf::conInput': not all control paths return a value
+  OOP_MS4.vcxproj -> D:\Seneca\OOP244\FINAL MS4\x64\Debug\OOP_MS4.exe
+  OOP_MS4.vcxproj -> D:\Seneca\OOP244\FINAL MS4\x64\Debug\OOP_MS4.pdb (Full PDB)
